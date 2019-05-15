@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "**The First 50 Days**"
-date:       2019-05-15 15:03:23 +0000
+title:      "The First 50 Days"
+date:       2019-05-15 11:03:24 -0400
 permalink:  the_first_50_days
 ---
 
