@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Exploring The Concepts of Scope and Hoisting"
-date:       2020-04-28 02:12:14 +0000
+date:       2020-04-27 22:12:15 -0400
 permalink:  exploring_the_concepts_of_scope_and_hoisting
 ---
 
